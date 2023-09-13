@@ -1,0 +1,6 @@
+#ignored files
+*.md
+/source/test.py
+
+#excluded files
+!README.md
